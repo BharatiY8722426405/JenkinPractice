@@ -2,9 +2,9 @@ package PracticeForJenkins;
 
 import org.testng.annotations.Test;
 
-public class JenkinClass2 {
+public class JenkinClassTest {
 	@Test
-	public void BuildCreation()
+	public void BuildCreationTest()
 	{
 		System.out.println("jenkins");
 		System.out.println("build creation");

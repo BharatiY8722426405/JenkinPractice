@@ -2,7 +2,7 @@ package PracticeForJenkins;
 
 import org.testng.annotations.Test;
 
-public class JenkinClass {
+public class JenkinClass3Test {
 	@Test
 	public void BuildCreation()
 	{
